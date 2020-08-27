@@ -17,6 +17,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shwetagurnani&show_icons=true" alt="shwetagurnani" /></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/shwetagurnani28" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shwetagurnani28" height="30" width="30" /></a>
-</p>
