@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [E-Cure](https://github.com/shwetagurnani/E-Cure)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [http://sgurnani-sps-summer20.appspot.com/](http://sgurnani-sps-summer20.appspot.com/)
 
-- 💬 Ask me about **Node.js, Bootstrap, JavaScript**
+- 💬 Ask me about **Node.js, React.js, MongoDB, JavaScript**
 
 - 📫 Feel free to reach me at **18107@iiitu.ac.in**
 
