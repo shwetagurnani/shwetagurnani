@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetagurnani" alt="shwetagurnani" /> </p>
 
-- 🔭 I’m currently working as a Full Stack Developer at Listnr.
+- 🔭 I’m currently working as an SDE Intern @ Amazon
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [http://sgurnani-sps-summer20.appspot.com/](http://sgurnani-sps-summer20.appspot.com/)
