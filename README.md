@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetagurnani" alt="shwetagurnani" /> </p>
 
-- 🔭 I’m currently working as an SDE Intern @ Twitter
-- 🌱 I’m currently learning **Scala**
+- 🔭 Currently a part of Microsoft Engage
 
 - 💬 Ask me about **Node.js, React.js, MongoDB, JavaScript**
 
