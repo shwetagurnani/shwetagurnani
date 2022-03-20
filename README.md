@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetagurnani" alt="shwetagurnani" /> </p>
 
-- 🔭 Currently a part of Microsoft Engage
+- 🔭 Currently SWE Intern @ Walmart
 
 - 💬 Ask me about **Node.js, React.js, MongoDB, JavaScript**
 
